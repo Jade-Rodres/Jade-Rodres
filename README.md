@@ -1,8 +1,10 @@
 
 <div align="center">
 
-  <h1>Hello, World!</h1>
+<img src="assets/totoro,circular.png" width="250" alt="Totoro pixel art">
 
-  <p>Seja bem-vindo ao meu perfil!</p>
+<h1>Hello, World!</h1>
+
+<p>Seja bem-vindo ao meu perfil!</p>
 
 </div>

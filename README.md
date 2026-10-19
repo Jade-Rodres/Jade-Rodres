@@ -121,7 +121,8 @@
 
 <br>
 
-<!-- ==================== DEV ACTIVITY==================== -->
+
+<!-- ==================== DEV ACTIVITY ==================== -->
 
 <h2 align="center">
   <img src="./assets/folhinha.gif" width="25" alt="Folhinha">
@@ -130,6 +131,6 @@
 
 <div align="center">
 
-  <img src="https://ghchart.rshah.org/0B8F50/Jade-Rodres" alt="GitHub Contributions">
+  <img src="https://raw.githubusercontent.com/Jade-Rodres/Jade-Rodres/output/github-snake.svg" alt="Snake animation">
 
 </div>

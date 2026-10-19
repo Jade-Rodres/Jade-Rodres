@@ -3,15 +3,18 @@
 
 <div align="center">
 
-  <img src="./assets/totoro,circular.png" width="250" alt="Totoro pixel art">
+  <img src="./assets/totoro, circular.png" width="250" alt="Totoro pixel art">
 
-  <h1>Hello, World!</h1>
+  <p><strong>Hello, World!</strong></p>
 
   <p>Seja bem-vindo ao meu perfil!</p>
 
 </div>
 
 <br>
+
+<!-- ==================== CONTACT ==================== -->
+
 
 <!-- ==================== CONTACT ==================== -->
 
@@ -23,18 +26,15 @@
   </h2>
 
   <p>
-    <a href="https://www.linkedin.com/in/jade-rodrigues-/">
-      <img src="./assets/linkedin.png" width="55" alt="LinkedIn">
-    </a>
+    <a href="https://www.linkedin.com/in/jade-rodrigues-/"><img src="./assets/linkedin.png" width="55" alt="LinkedIn"></a>
     &nbsp;&nbsp;
-    <a href="mailto:jade.rodes.27@gmail.com">
-      <img src="./assets/gmail.png" width="55" alt="E-mail">
-    </a>
+    <a href="mailto:jade.rodes.27@gmail.com"><img src="./assets/gmail.png" width="55" alt="E-mail"></a>
   </p>
 
 </div>
 
 <br>
+
 
 <!-- ==================== ABOUT ME ==================== -->
 
@@ -81,7 +81,6 @@
 <td align="center">
 <img src="https://img.shields.io/badge/GitHub-0B3025?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 <img src="https://img.shields.io/badge/VS_Code-0B3025?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
-<img src="https://img.shields.io/badge/PostgreSQL-0B3025?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/Power_BI-0B3025?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI">
 </td>
 </tr>
@@ -122,11 +121,11 @@
 
 <br>
 
-<!-- ==================== GITHUB CONTRIBUTIONS ==================== -->
+<!-- ==================== DEV ACTIVITY==================== -->
 
 <h2 align="center">
   <img src="./assets/folhinha.gif" width="25" alt="Folhinha">
-  GITHUB CONTRIBUTIONS
+  DEV ACTIVITY
 </h2>
 
 <div align="center">

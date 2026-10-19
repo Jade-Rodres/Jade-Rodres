@@ -27,3 +27,26 @@
 
 </div>
 
+
+<br>
+
+<div align="center">
+
+  <h2>ABOUT ME</h2>
+
+  <p>
+    Olá! Me chamo Jade, tenho 24 anos e estou cursando
+    Engenharia da Computação na Univiçosa.
+    <br>
+    Tenho interesse em desenvolvimento web, análise de dados
+    e tecnologia aplicada a impacto social.
+    <br>
+    Gosto de projetos que unem criatividade,
+    organização e propósito.
+  </p>
+
+</div>
+
+<br>
+
+

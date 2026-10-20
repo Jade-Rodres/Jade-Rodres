@@ -35,6 +35,7 @@
 
 
 
+
 <!-- ==================== ABOUT ME ==================== -->
 
 <h2 align="center">
@@ -45,11 +46,20 @@
 <div align="center">
 
   <p>
-    Olá! Sou estudante de Engenharia da Computação na Univiçosa, com interesse em desenvolvimento de software e na criação de soluções tecnológicas.
+    Olá! Sou estudante de Engenharia da Computação na Univiçosa,
+    com interesse em desenvolvimento de software e na criação
+    de soluções tecnológicas.
+  </p>
 
-Tenho explorado o desenvolvimento web por meio de projetos colaborativos, colocando em prática meus conhecimentos e adquirindo experiência com novas tecnologias.
+  <p>
+    Tenho explorado o desenvolvimento web por meio de projetos
+    colaborativos, colocando em prática meus conhecimentos
+    e adquirindo experiência com novas tecnologias.
+  </p>
 
-Estou sempre em busca de aprendizado, novos desafios e oportunidades para evoluir na área de tecnologia.o.
+  <p>
+    Estou sempre em busca de aprendizado, novos desafios
+    e oportunidades para evoluir na área de tecnologia.
   </p>
 
 </div>
@@ -91,6 +101,8 @@ Estou sempre em busca de aprendizado, novos desafios e oportunidades para evolui
 <br>
 
 
+
+
 <!-- ==================== PROJECTS ==================== -->
 
 <h2 align="center">
@@ -105,8 +117,14 @@ Estou sempre em busca de aprendizado, novos desafios e oportunidades para evolui
   <strong>Apoie essa Causa — Landing Page</strong>
 
   <p>
-   Desenvolvimento de uma landing page para a SouJunior, criada com o objetivo de ampliar a visibilidade da comunidade e incentivar o apoio à sua missão.
-    
+    Desenvolvimento de uma landing page para a SouJunior,
+    criada com o objetivo de ampliar a visibilidade da comunidade
+    e incentivar o apoio à sua missão.
+  </p>
+
+  <p>
+    Projeto desenvolvido durante o Hackathon SouJunior,
+    no qual a equipe conquistou o 6º lugar.
   </p>
 
   <img src="https://img.shields.io/badge/HTML5-0B3025?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -115,13 +133,14 @@ Estou sempre em busca de aprendizado, novos desafios e oportunidades para evolui
 
   <br><br>
 
-  <a href="https://github.com/soujunior-squad-jasperc/landing-page">
-    <img src="https://img.shields.io/badge/VIEW_PROJECT-0B3025?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
-  </a>
+  <p>
+    <a href="https://github.com/soujunior-squad-jasperc/landing-page"><img src="https://img.shields.io/badge/VIEW_PROJECT-0B3025?style=for-the-badge&logo=github&logoColor=white" alt="View Project"></a>&nbsp;&nbsp;<a href="https://jasperc-soujunior.jasperc.workers.dev"><img src="https://img.shields.io/badge/LIVE_DEMO-0B3025?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"></a>
+  </p>
 
 </div>
 
 <br>
+
 
 
 <!-- ==================== DEV ACTIVITY ==================== -->

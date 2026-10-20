@@ -13,7 +13,7 @@
 
 <br>
 
-<!-- ==================== CONTACT ==================== -->
+
 
 
 <!-- ==================== CONTACT ==================== -->
@@ -26,14 +26,13 @@
   </h2>
 
   <p>
-    <a href="https://www.linkedin.com/in/jade-rodrigues-/"><img src="./assets/linkedin.png" width="55" alt="LinkedIn"></a>
-    &nbsp;&nbsp;
-    <a href="mailto:jade.rodes.27@gmail.com"><img src="./assets/gmail.png" width="55" alt="E-mail"></a>
+    <a href="https://www.linkedin.com/in/jade-rodrigues-/"><img src="./assets/linkedin.png" width="55" alt="LinkedIn"></a>&nbsp;&nbsp;<a href="https://mail.google.com/mail/?view=cm&fs=1&to=jade.rodes.27%40gmail.com"><img src="./assets/gmail.png" width="55" alt="Gmail"></a>
   </p>
 
 </div>
 
 <br>
+
 
 
 <!-- ==================== ABOUT ME ==================== -->

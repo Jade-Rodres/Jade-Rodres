@@ -45,11 +45,11 @@
 <div align="center">
 
   <p>
-    Olá! Me chamo Jade, tenho 24 anos e estou cursando Engenharia da Computação na Univiçosa.
-    <br>
-    Tenho interesse em desenvolvimento web, análise de dados e tecnologia aplicada a impacto social.
-    <br>
-    Gosto de projetos que unem criatividade, organização e propósito.
+    Olá! Sou estudante de Engenharia da Computação na Univiçosa, com interesse em desenvolvimento de software e na criação de soluções tecnológicas.
+
+Tenho explorado o desenvolvimento web por meio de projetos colaborativos, colocando em prática meus conhecimentos e adquirindo experiência com novas tecnologias.
+
+Estou sempre em busca de aprendizado, novos desafios e oportunidades para evoluir na área de tecnologia.o.
   </p>
 
 </div>
@@ -72,13 +72,16 @@
 </tr>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/Python-0B3025?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  
+<img src="https://img.shields.io/badge/SQL-0B3025?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+<img src="https://img.shields.io/badge/C++-0B3025?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
 <img src="https://img.shields.io/badge/JavaScript-0B3025?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
 <img src="https://img.shields.io/badge/HTML5-0B3025?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-0B3025?style=for-the-badge&logo=css&logoColor=white" alt="CSS3">
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/GitHub-0B3025?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-0B3025?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> 
+<img src="https://img.shields.io/badge/Git-0B3025?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/VS_Code-0B3025?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
 <img src="https://img.shields.io/badge/Power_BI-0B3025?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI">
 </td>
@@ -102,8 +105,8 @@
   <strong>Apoie essa Causa — Landing Page</strong>
 
   <p>
-    Desenvolvimento colaborativo de uma landing page responsiva,
-    com foco em acessibilidade, interatividade e experiência do usuário.
+   Desenvolvimento de uma landing page para a SouJunior, criada com o objetivo de ampliar a visibilidade da comunidade e incentivar o apoio à sua missão.
+    
   </p>
 
   <img src="https://img.shields.io/badge/HTML5-0B3025?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
